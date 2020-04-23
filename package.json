@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/Geof-Hoffman/comingSoonWedding#readme",
   "devDependencies": {
-    "lite-server": "^2.3.0"
+   
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.12.1",
@@ -28,6 +28,7 @@
     "jquery": "^3.3.1",
     "pack": "^2.2.0",
     "popper.js": "^1.12.9",
-    "web": "0.0.2"
+    "web": "0.0.2",
+    "lite-server": "^2.3.0"
   }
 }
