@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Geof-Hoffman/WeddingSite.git"
+    "url": "git+https://github.com/Geof-Hoffman/.git"
   },
   "author": "Geof.Hoffman",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Geof-Hoffman/WeddingSite/issues"
+    "url": "https://github.com/Geof-Hoffman/comingSoonWedding/issues"
   },
-  "homepage": "https://github.com/Geof-Hoffman/WeddingSite#readme",
+  "homepage": "https://github.com/Geof-Hoffman/comingSoonWedding#readme",
   "devDependencies": {
     "lite-server": "^2.3.0"
   },
